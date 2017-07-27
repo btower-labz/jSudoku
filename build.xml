@@ -4,7 +4,7 @@
   <property name="source" location="src"/>
   <property name="build" location="build"/>
   <property name="classes" location="${build}/classes"/>
-  <property name="main-class" value="oyg.swing.Console"/>
+  <property name="main-class" value="oyg.sudoku.CreateSudokuGUI"/>
 
   <target name="info">
     <echo>Ant project for jSudoku.</echo>
